@@ -15,3 +15,7 @@ object datesetDemo {
   }
 
 }
+/**
+ git add . //
+ git commit -m "new file xx.java"  //到本地
+ git push // 到远程
